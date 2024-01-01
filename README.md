@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @OttoVanluchene
-- 👀 I’m interested in Java, Python, CSS, Svelte(kit), JavaScript
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Java, Spring Boot, Golang, Python, CSS, Svelte(kit), JavaScript, HTMX
 
 <!---
 OttoVanluchene/OttoVanluchene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
